@@ -1,3 +1,6 @@
+Status:
+- This package is currently a work in progress
+
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |![](https://github.com/BradAngliss/LoadingSpinners/blob/master/Readme%20Assets/bouncing_spinner.gif) BouncingSpinner|![](https://github.com/BradAngliss/LoadingSpinners/blob/master/Readme%20Assets/bouncing_spinner_flow.gif)BouncingSpinnerFlow|![](https://github.com/BradAngliss/LoadingSpinners/blob/master/Readme%20Assets/circle_arc_spinner.gif) CircleArcSpinner|
